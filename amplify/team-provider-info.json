@@ -1,0 +1,23 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-angularsearch-dev-221127-authRole",
+            "UnauthRoleArn": "arn:aws:iam::822275473824:role/amplify-angularsearch-dev-221127-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::822275473824:role/amplify-angularsearch-dev-221127-authRole",
+            "Region": "ap-southeast-1",
+            "DeploymentBucketName": "amplify-angularsearch-dev-221127-deployment",
+            "UnauthRoleName": "amplify-angularsearch-dev-221127-unauthRole",
+            "StackName": "amplify-angularsearch-dev-221127",
+            "StackId": "arn:aws:cloudformation:ap-southeast-1:822275473824:stack/amplify-angularsearch-dev-221127/cacc20a0-51c3-11eb-98da-06965e20f824",
+            "AmplifyAppId": "d32lmbipaia565"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d32lmbipaia565",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}

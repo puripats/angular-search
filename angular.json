@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "angular-search"
+  "defaultProject": "angular-search",
+  "cli": {
+    "analytics": false
+  }
 }
